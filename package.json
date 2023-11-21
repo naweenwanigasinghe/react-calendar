@@ -117,7 +117,6 @@
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.40",
     "prop-types": "^15.8.1",
-    "react-big-calendar": "^1.8.5",
     "react-overlays": "^5.2.1",
     "uncontrollable": "^7.2.1"
   },
